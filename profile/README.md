@@ -14,8 +14,8 @@ Windisch, Switzerland · since 2003</p>
 > ("We have been all but overrun with work and had to put our homepage on hold.")
 > — atcase.ch, 2003
 
-Twenty-odd years later, that is still roughly where the website stands. The work went first. This
-page is the start of changing that, in the open.
+Twenty-odd years later, the website is still about where that sentence left it. The work went first. This
+page is the start of putting the work in the open.
 
 ## What we do
 
@@ -55,8 +55,8 @@ Windisch, Schweiz · seit 2003</p>
 > Homepage zurückstellen.»*
 > — atcase.ch, 2003
 
-Gut zwanzig Jahre später steht die Website ungefähr noch dort. Die Arbeit ging vor. Diese Seite ist
-der Anfang, das zu ändern, und zwar offen.
+Gut zwanzig Jahre später steht die Website ungefähr noch bei diesem Satz. Die Arbeit ging vor. Diese Seite
+fängt an, die Arbeit offen zu zeigen.
 
 ## Was wir machen
 
